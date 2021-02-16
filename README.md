@@ -1,1 +1,1 @@
-# ToolConvert
+This class, permit change decimal integer number to diferent numeric representation, since binary to base 62, can obtain next number in the select base, is a perfect way to have easy read of id, is write like a trait so just nedd copy in ur proyect and use 
