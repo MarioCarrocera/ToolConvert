@@ -1,5 +1,5 @@
 <?php
-include_once("OnTimeConvert.php");
+include_once("myClass.php");
 
 class MyClass{
 	use Convert;
