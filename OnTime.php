@@ -1,7 +1,7 @@
 <?php
 include_once("OnTimeConvert.php");
 
-class OnTime{
+class MyClass{
 	use Convert;
 }
 
